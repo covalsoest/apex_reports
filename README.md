@@ -1,5 +1,5 @@
-# apex_reports
-Apex Report Server integration
+# Apex integration with Oracle Reports
+Demo application of Apex integration example with Oracle Reports
 
 ## Demo
 See https://apex.oracle.com/pls/apex/f?p=coval:3
