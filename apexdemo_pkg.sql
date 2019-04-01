@@ -105,7 +105,7 @@ begin
                     <thead>
                       <tr>
                         <th class="t-Report-colHead u-color-29-bg" id="PROMPT">Prompt</th>
-                        <th class="t-Report-colHead u-color-29-bg" id="MODULE">Module</th>
+                        <th class="t-Report-colHead u-color-29-bg" id="MODULE">Value(s)</th>
                         <th class="t-Report-colHead u-color-29-bg" id="HINT">Help</th>
                       </tr>
                     </thead>
