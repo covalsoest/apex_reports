@@ -2,7 +2,7 @@
 Demo application of Apex integration example with Oracle Reports
 
 ## Demo
-See https://apex.oracle.com/pls/apex/f?p=coval:3
+See https://apex.oracle.com/pls/apex/f?p=80981:3
 
 ## Documentation
 See https://www.coval.nl/blog/?p=52
